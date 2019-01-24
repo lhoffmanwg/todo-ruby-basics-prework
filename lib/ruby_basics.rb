@@ -1,16 +1,16 @@
 def division(num1, num2)
- 
+ result = num1 / num2
 end
 
 def assign_variable(value)
-  
+  name = value
 end
 
 def argue
   
 end
 
-def greeting
+def greeting(a1, a2)
 
 end
 
