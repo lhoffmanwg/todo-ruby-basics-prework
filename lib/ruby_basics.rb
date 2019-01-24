@@ -14,7 +14,7 @@ def greeting(a1, a2)
 
 end
 
-def return_a_value(whatever)
+def return_a_value
   return whatever
 end
 
