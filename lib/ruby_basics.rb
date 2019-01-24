@@ -14,8 +14,8 @@ def greeting(a1, a2)
 
 end
 
-def return_a_value
-  whatever
+def return_a_value(whatever)
+  return whatever
 end
 
 def last_evaluated_value
