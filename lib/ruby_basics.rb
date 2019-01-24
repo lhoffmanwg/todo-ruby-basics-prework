@@ -15,7 +15,8 @@ def greeting(a1, a2)
 end
 
 def return_a_value
-  return "Nice"
+  phrase = "Nice"
+  return phrase
 end
 
 def last_evaluated_value
